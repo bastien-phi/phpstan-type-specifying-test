@@ -1,0 +1,18 @@
+{
+  "name": "philippe/phpstan-type-specifying-test",
+  "authors": [
+    {
+      "name": "Bastien Philippe",
+      "email": "bastien.philippe@soyhuce.fr"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "phpstan/phpstan": "^0.12.94"
+  },
+  "autoload": {
+    "psr-4": {
+      "Philippe\\Phpstan\\": "src"
+    }
+  }
+}
